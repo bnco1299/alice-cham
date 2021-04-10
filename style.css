@@ -1,0 +1,32 @@
+body{
+  text-align:center;
+}
+
+.heading-1{
+  color: green;
+  font-size: 50px;
+}
+
+img{
+  height: 90px;
+}
+
+.column-left{
+  float: left;
+  width: 30%
+}
+
+.column-middle{
+  float: left;
+  width: 30%
+}
+
+.column-right {
+  float: left;
+  width: 30%
+}
+
+footer {
+  text-align: right;
+  padding: 50px
+}
